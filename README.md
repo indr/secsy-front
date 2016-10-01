@@ -1,5 +1,8 @@
 # secsy-front
 
+[![dependencies Status](https://david-dm.org/indr/secsy-front/status.svg)](https://david-dm.org/indr/secsy-front)
+[![devDependencies Status](https://david-dm.org/indr/secsy-front/dev-status.svg)](https://david-dm.org/indr/secsy-front?type=dev)
+
 secsy.io front page, based on [Creative](http://startbootstrap.com/template-overviews/creative/), a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Bugs and Issues
