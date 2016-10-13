@@ -9,9 +9,9 @@ var pkg = require('./package.json');
 
 // Set the banner content
 var banner = ['/*!\n',
-    ' * Start Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
-    ' * Copyright 2013-' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
-    ' * Licensed under <%= pkg.license.type %> (<%= pkg.license.url %>)\n',
+    ' * secsy-front\n\n',
+    ' * Copyright (c) 2016 Reto Inderbitzin, MIT License (https://github.com/indr/secsy-front/blob/master/LICENSE.md)\n',
+    ' * Copyright (c) 2013-2016 Start Bootstrap, Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)\n',
     ' */\n',
     ''
 ].join('');
